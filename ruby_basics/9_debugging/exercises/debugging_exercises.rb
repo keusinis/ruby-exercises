@@ -52,5 +52,5 @@ def yell_greeting(string)
   debugger
   name = string
   name = name.upcase
-  greeting = "WASSAP, #{name}!"
+  "WASSAP, #{name}!"
 end
